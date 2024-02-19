@@ -29,3 +29,5 @@ Neste exemplo entramos com o seguinte texto:
 Logo abixo é exibida a janela de resultado:
 
 ![imagem original](/inputs/resultado.png)
+
+POdemos ver que foi im texto em poetugês com uma avaliação 100% positiva.
