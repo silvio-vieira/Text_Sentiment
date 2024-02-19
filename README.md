@@ -30,6 +30,6 @@ Logo abixo é exibida a janela de resultado:
 
 ![imagem original](/inputs/resultado.png)
 
-Podemos ver que foi im texto em poetugês com uma avaliação 100% positiva.
+Podemos ver que foi im texto em portugês com uma avaliação 100% positiva.
 
 [Para mais detalhes clique aqui](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html#analyze-reviews-in-language-studio)
