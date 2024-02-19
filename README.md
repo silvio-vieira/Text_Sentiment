@@ -25,3 +25,7 @@ __3 - Analisar avaliações no Language Studio__
 Neste exemplo entramos com o seguinte texto:
 
 ![imagem original](/inputs/texto-original.png)
+
+Logo abixo é exibida a janela de resultado:
+
+![imagem original](/inputs/resultado.png)
